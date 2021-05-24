@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeeGingko
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning signal process
+- 🌱 I’m currently learning signal processing
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 1596510773@qq.com
 
